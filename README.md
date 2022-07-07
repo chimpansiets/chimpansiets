@@ -1,6 +1,6 @@
 ## My Codam Statistics:
 
-[![chimpansiets's 42 stats](https://badge42.herokuapp.com/api/stats/svoort)](https://github.com/JaeSeoKim/badge42)
+[![svoort's 42 stats](https://badge42.vercel.app/api/v2/cl5b35tsu001109mkpy0rtxvb/stats?cursusId=21&coalitionId=33)](https://github.com/JaeSeoKim/badge42)
 
 ## Github Trophy's:
 
