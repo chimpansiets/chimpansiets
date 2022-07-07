@@ -8,4 +8,4 @@
 
 ## My Flutter Package
 
-![storybook_annotations](https://pub.dev/packages/storybook_annotations)
+[storybook_annotations](https://pub.dev/packages/storybook_annotations)
