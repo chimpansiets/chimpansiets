@@ -62,21 +62,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chimpansiets&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chimpansiets&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180" />
-</p>
-
----
-
-## 🎓 Codam Coding College
-
-[![svoort's 42 stats](https://badge42.vercel.app/api/v2/cl5b35tsu001109mkpy0rtxvb/stats?cursusId=21&coalitionId=33)](https://github.com/JaeSeoKim/badge42)
-
----
-
 ## 🏆 GitHub Trophies
 
 <p align="center">
