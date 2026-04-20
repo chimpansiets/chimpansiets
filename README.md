@@ -19,3 +19,5 @@
 - https://www.kvk.nl/deponeren/zelf-deponeren-jaarrekening/
 - https://www.kvk.nl/jaarrekening-deponeren/
 - https://www.kvk.nl/zdj-toestemming/
+
+![Snake animation](https://github.com/chimpansiets/chimpansiets/blob/output/github-contribution-grid-snake.svg)
