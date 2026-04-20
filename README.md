@@ -62,14 +62,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chimpansiets&theme=tokyonight&no-frame=true&margin-w=10&row=1" alt="trophies" />
-</p>
-
----
-
 ## 🚀 Projects in Production
 
 Work shipped for clients that is live and serving real users:
