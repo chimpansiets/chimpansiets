@@ -70,12 +70,6 @@
 
 ---
 
-## 📦 Published Packages
-
-- 🎨 [`storybook_annotations`](https://pub.dev/packages/storybook_annotations) — Flutter package on pub.dev
-
----
-
 ## 🚀 Projects in Production
 
 Work shipped for clients that is live and serving real users:
@@ -109,5 +103,3 @@ Work shipped for clients that is live and serving real users:
 </p>
 
 ---
-
-![Snake animation](https://github.com/chimpansiets/chimpansiets/blob/output/github-contribution-grid-snake.svg)
